@@ -1,6 +1,6 @@
 # base64-lex
 
-Url-safe base64 encoding variant which preserves lexicographical ordering of underlying bytes.
+Variant of base64 encoding which preserves lexicographic order and is url-safe
 
 [![build status](https://travis-ci.org/deanlandolt/base64-lex.svg?branch=master)](https://travis-ci.org/deanlandolt/base64-lex)
 

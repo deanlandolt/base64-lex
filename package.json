@@ -1,7 +1,7 @@
 {
   "name": "base64-lex",
   "version": "1.0.0",
-  "description": "Url-safe base64 encoding variant which preserves lexicographical ordering of underlying bytes",
+  "description": "Variant of base64 encoding which preserves lexicographic order and is url-safe",
   "main": "index.js",
   "scripts": {
     "test": "tape test | faucet"
