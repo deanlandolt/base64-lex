@@ -1,6 +1,6 @@
 {
   "name": "base64-lex",
-  "version": "1.0.0-beta.0",
+  "version": "1.0.0",
   "description": "Url-safe base64 encoding variant which preserves lexicographical ordering of underlying bytes",
   "main": "index.js",
   "scripts": {
